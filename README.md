@@ -17,8 +17,8 @@ This project applies machine learning techniques to classify rice and cotton cro
 ## Contributors
 
 
-- **[Muhammad Sarmad Saleem(MSSS)]**
-- **[Tayyab Raza]**
+- **Muhammad Sarmad Saleem(MSS)**
+- **Tayyab Raza**
 
 
 ## Introduction
