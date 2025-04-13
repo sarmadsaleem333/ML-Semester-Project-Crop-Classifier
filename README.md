@@ -22,7 +22,7 @@ This project applies machine learning techniques to classify rice and cotton cro
 
 ## Instructor
 
---**Dr. Muhammad Moazam Fraz**
+- **Dr. Muhammad Moazam Fraz**
 
 
 ## Introduction
