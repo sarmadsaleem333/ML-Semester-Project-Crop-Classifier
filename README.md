@@ -20,6 +20,10 @@ This project applies machine learning techniques to classify rice and cotton cro
 - **Muhammad Sarmad Saleem(MSS)**
 - **Tayyab Raza**
 
+## Instructor
+
+--**Dr. Muhammad Moazam Fraz**
+
 
 ## Introduction
 
@@ -66,5 +70,8 @@ To view results visit both notebooks for supervised and unsupervised results
 Feel free to explore and contribute to this project! For inquiries or feedback, please open an issue or contact the contributors.
 
 ---
+
+
+
 
 _This project was developed as part of the CS471 Machine Learning course at NUST, SEECS._
